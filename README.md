@@ -431,24 +431,6 @@ npm >= 9.0.0
 | `Enter` | Add subreddit |
 | `Esc` | Clear input field |
 
----
-
-## 📸 Screenshots
-
-<div align="center">
-
-### 🖥️ Desktop View
-<img src="https://via.placeholder.com/1200x600/10b981/ffffff?text=Desktop+Multi-Lane+View" alt="Desktop View" width="100%"/>
-
-### 📱 Mobile View
-<img src="https://via.placeholder.com/400x800/059669/ffffff?text=Mobile+View" alt="Mobile View" width="50%"/>
-
-### ✨ Features Showcase
-<img src="https://via.placeholder.com/1200x400/047857/ffffff?text=Search+%26+Suggestions" alt="Features" width="100%"/>
-
-</div>
-
----
 
 ## 🗂️ Project Structure
 ```
